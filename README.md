@@ -1,4 +1,4 @@
-# 🔐 Password Generator (GUI)
+# 🔐 Password Generator (GUI) - Python&CustomTkinter
 
 A **modern and secure password generator** built with **Python** and **CustomTkinter**.  
 This application allows users to generate strong passwords with a user-friendly and stylish interface.
