@@ -45,7 +45,7 @@ The output .exe file will be in the dist folder.
 📜 License
 This project is licensed under the MIT License.
 
-👤 Perception Architect
+👤 Perception Architect<br>
 Dr. Bektaş Sarı | Perception Architect & Founder @ KOGNITECT
 
 I build bridges between Human Nature and Digital Technology. My mission is to construct and refine rational, scientifically grounded products that establish clarity, solidity, and trust—not through manipulation, but through neuroscience and evolutionary psychology.
